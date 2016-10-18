@@ -19,3 +19,5 @@ A4<-cbind(x1,x2,x3,x4,x5,x6,x7,x8,x9,x10)
 plot(qchisq(ppoints(A4),2),sort(A4),main ="chi-square plot",xlab = "Quntiles",ylab = "sort distance")
 abline(a=0,b=1)#4.26(C)
 # good job
+
+# PPAP
